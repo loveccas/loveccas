@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 12啊上厕所的次数大城市的
 -->
-
-🔭 个人履历：大连海事大学测控专业学生
+
 
 🌱 方向：深度学习，强化学习，机器人工程
 
